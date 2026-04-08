@@ -9,5 +9,6 @@
   },
   "enabledPlugins": {
     "ui-ux-pro-max@nextlevelbuilder": true
-  }
+  },
+  "enabledMcpjsonServers": ["mapbox"]
 }
